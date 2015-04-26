@@ -32,7 +32,7 @@ AverageByActivityBySubject.txt can be loaded into R for easy viewing and
 exploration via the following command:
 
 ```R
-data <- read.csv("AverageByActivityBySubject.txt", header = TRUE)
+data <- read.table("AverageByActivityBySubject.txt", header = TRUE)
 ```
 # Descriptions of scripts
 ### getData.R
