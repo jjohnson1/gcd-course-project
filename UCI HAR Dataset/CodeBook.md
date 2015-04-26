@@ -34,12 +34,12 @@ The analysis script in this repository reorganizes the data to be grouped by the
 and by activity. For each subject-activity pair, the script calculates the average value of
 each of the variables listed below. For simplicity, .XYZ is used to indicate that the variable is observed along the X, Y, and Z axes separately. Thus tBodyAccMean.XYZ refers to three variables in the data set: tBodyAccMeanX, tBodyAccMeanY, and tBodyAccMeanZ
 
--activity: label of the activity completed during the experiment. Values are:
+- activity: label of the activity completed during the experiment. Values are:
 	WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
--subject: An identifier of the subject who completed the experiment. Values are integers from 1 to 30.
+- subject: An identifier of the subject who completed the experiment. Values are integers from 1 to 30.
 
--tBodyAccMean.XYZ: time domain body accelarion mean along the X, Y, or Z axis.
+- tBodyAccMean.XYZ: time domain body accelarion mean along the X, Y, or Z axis.
 
 -tGravityAccMean.XYZ: time domain gravity acceleration mean along the X, Y, or Z axis.
 
