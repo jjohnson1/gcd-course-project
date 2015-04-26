@@ -45,76 +45,76 @@ each of the variables listed below. For simplicity, .XYZ is used to indicate tha
 
 -tBodyAccJerkMean.XYZ: time domain body acceleration Jerk signal mean along the X, Y, or Z axis. 
 
--tBodyGyroMean.XYZ: time domain body gyroscope signal mean along the X, Y, or Z axis.
+- tBodyGyroMean.XYZ: time domain body gyroscope signal mean along the X, Y, or Z axis.
 
--tBodyGyroJerkMean.XYZ: time domain body gyroscope jerk signal mean along the X, Y, or Z axis.
+- tBodyGyroJerkMean.XYZ: time domain body gyroscope jerk signal mean along the X, Y, or Z axis.
 
--tBodyAccMagMean: time domain body acceleration magnitude mean.
+- tBodyAccMagMean: time domain body acceleration magnitude mean.
 
--tGravityAccMagMean: time domain gravity acceleration magnitude mean.
+- tGravityAccMagMean: time domain gravity acceleration magnitude mean.
 
--tBodyAccJerkMagMean: time domain body jerk signal magnitude mean.
+- tBodyAccJerkMagMean: time domain body jerk signal magnitude mean.
 
--tBodyGyroMagMean: time domain body gyroscope signal magnitude mean.
+- tBodyGyroMagMean: time domain body gyroscope signal magnitude mean.
 
--tBodyGyroJerkMagMean: time domain body gyroscope jerk signal magnitude mean.
+- tBodyGyroJerkMagMean: time domain body gyroscope jerk signal magnitude mean.
 
--fBodyAccMean.XYZ: frequency domain body acceleration mean along the X, Y, or Z axis.
+- fBodyAccMean.XYZ: frequency domain body acceleration mean along the X, Y, or Z axis.
 
--fBodyAccJerkMean.XYZ: frequency domain body acceleration jerk signal mean along the X, Y, or Z axis.
+- fBodyAccJerkMean.XYZ: frequency domain body acceleration jerk signal mean along the X, Y, or Z axis.
 
--fBodyGyroMean.XYZ: frequency domain gyroscope signal mean along the X, Y, or Z axis.
+- fBodyGyroMean.XYZ: frequency domain gyroscope signal mean along the X, Y, or Z axis.
 
--fBodyAccMagMean: frequency domain body acceleration magnitude mean.
+- fBodyAccMagMean: frequency domain body acceleration magnitude mean.
 
--fBodyAccJerkMagMean: frequency domain acceleration jerk signal magnitude mean.
+- fBodyAccJerkMagMean: frequency domain acceleration jerk signal magnitude mean.
 
--fBodyGyroMagMean: frequency domain gyroscope signal magnitude mean.
+- fBodyGyroMagMean: frequency domain gyroscope signal magnitude mean.
 
--fBodyGyroJerkMagMean: frequency domain gyroscope jerk signal magnitude mean.
+- fBodyGyroJerkMagMean: frequency domain gyroscope jerk signal magnitude mean.
 
--fBodyBodyAccJerkMagMean: frequency domain body acceleration jerk signal magnitude mean.
+- fBodyBodyAccJerkMagMean: frequency domain body acceleration jerk signal magnitude mean.
 
--fBodyBodyGyroMagMean: frequency domain body gyroscope magnitude mean.
+- fBodyBodyGyroMagMean: frequency domain body gyroscope magnitude mean.
 
--fBodyBodyGyroJerkMagMean: frequency domain body gyroscope jerk signal magnitude mean.
+- fBodyBodyGyroJerkMagMean: frequency domain body gyroscope jerk signal magnitude mean.
 
--tBodyAccStd.XYZ: time domain body accelarion standard deviation along the X, Y, or Z axis.
+- tBodyAccStd.XYZ: time domain body accelarion standard deviation along the X, Y, or Z axis.
 
--tGravityAccStd.XYZ: time domain gravity acceleration standard deviation along the X, Y, or Z axis.
+- tGravityAccStd.XYZ: time domain gravity acceleration standard deviation along the X, Y, or Z axis.
 
--tBodyAccJerkStd.XYZ: time domain body acceleration Jerk signal standard deviation along the X, Y, or Z axis. 
+- tBodyAccJerkStd.XYZ: time domain body acceleration Jerk signal standard deviation along the X, Y, or Z axis. 
 
--tBodyGyroStd.XYZ: time domain body gyroscope signal standard deviation along the X, Y, or Z axis.
+- tBodyGyroStd.XYZ: time domain body gyroscope signal standard deviation along the X, Y, or Z axis.
 
--tBodyGyroJerkStd.XYZ: time domain body gyroscope jerk signal standard deviation along the X, Y, or Z axis.
+- tBodyGyroJerkStd.XYZ: time domain body gyroscope jerk signal standard deviation along the X, Y, or Z axis.
 
--tBodyAccMagStd: time domain body acceleration magnitude standard deviation.
+- tBodyAccMagStd: time domain body acceleration magnitude standard deviation.
 
--tGravityAccMagStd: time domain gravity acceleration magnitude standard deviation.
+- tGravityAccMagStd: time domain gravity acceleration magnitude standard deviation.
 
--tBodyAccJerkMagStd: time domain body jerk signal magnitude standard deviation.
+- tBodyAccJerkMagStd: time domain body jerk signal magnitude standard deviation.
 
--tBodyGyroMagStd: time domain body gyroscope signal magnitude standard deviation.
+- tBodyGyroMagStd: time domain body gyroscope signal magnitude standard deviation.
 
--tBodyGyroJerkMagStd: time domain body gyroscope jerk signal magnitude standard deviation.
+- tBodyGyroJerkMagStd: time domain body gyroscope jerk signal magnitude standard deviation.
 
--fBodyAccStd.XYZ: frequency domain body acceleration standard deviation along the X, Y, or Z axis.
+- fBodyAccStd.XYZ: frequency domain body acceleration standard deviation along the X, Y, or Z axis.
 
--fBodyAccJerkStd.XYZ: frequency domain body acceleration jerk signal standard deviation along the X, Y, or Z axis.
+- fBodyAccJerkStd.XYZ: frequency domain body acceleration jerk signal standard deviation along the X, Y, or Z axis.
 
--fBodyGyroStd.XYZ: frequency domain gyroscope signal standard deviation along the X, Y, or Z axis.
+- fBodyGyroStd.XYZ: frequency domain gyroscope signal standard deviation along the X, Y, or Z axis.
 
--fBodyAccMagStd: frequency domain body acceleration magnitude standard deviation.
+- fBodyAccMagStd: frequency domain body acceleration magnitude standard deviation.
 
--fBodyAccJerkMagStd: frequency domain acceleration jerk signal magnitude standard deviation.
+- fBodyAccJerkMagStd: frequency domain acceleration jerk signal magnitude standard deviation.
 
--fBodyGyroMagStd: frequency domain gyroscope signal magnitude standard deviation.
+- fBodyGyroMagStd: frequency domain gyroscope signal magnitude standard deviation.
 
--fBodyGyroJerkMagStd: frequency domain gyroscope jerk signal magnitude standard deviation.
+- fBodyGyroJerkMagStd: frequency domain gyroscope jerk signal magnitude standard deviation.
 
--fBodyBodyAccJerkMagStd: frequency domain body acceleration jerk signal magnitude standard deviation.
+- fBodyBodyAccJerkMagStd: frequency domain body acceleration jerk signal magnitude standard deviation.
 
--fBodyBodyGyroMagStd: frequency domain body gyroscope magnitude standard deviation.
+- fBodyBodyGyroMagStd: frequency domain body gyroscope magnitude standard deviation.
 
--fBodyBodyGyroJerkMagStd: frequency domain body gyroscope jerk signal magnitude standard deviation.
+- fBodyBodyGyroJerkMagStd: frequency domain body gyroscope jerk signal magnitude standard deviation.
