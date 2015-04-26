@@ -67,5 +67,7 @@ following steps:
 
   This step involves grouping the composite data set by activity and by subject and 
   computing the average for each variable for all observations in each subject-activity
-  group. This dataset is then saved as AverageByActivityBySubject.txt.
+  group. This dataset is then saved as AverageByActivityBySubject.txt. This data set adheres
+  to the pricniples of tidy data by presenting only one variable in each column and showing 
+  each observation of these variables (for each subject-activity pair) in a separate row. 
 
