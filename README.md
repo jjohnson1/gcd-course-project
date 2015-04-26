@@ -50,18 +50,18 @@ This script performs all of the necessary tasks to move from the raw data to
 the final, tidy version seen in AverageByActivityBySubject.txt. This involves the
 following steps:
 
-1. <b>Create a complete dataset<b>
+<b>1. Create a complete dataset</b>
   This step involves combining the X, Y, and subject data for each of the train and 
   test sets to create complete test and train sets. This step also involves attaching
   descriptive names to the variables in the dataset. Finally, this step concludes
   with combining the train and test sets to create a large composite set with all data.
 
-2. <b>Extract only the desired columns<b>
+<b>2. Extract only the desired columns</b>
   For this project, we are only concerned with observations of the mean and standard deviation for each measurement. Thus step 2 involves removing all other variables
   from the composite data set. Mean and standard deviation columns are selected by 
   finding variable names that include either mean or std, excluding meanFreq and gravityMean.
 
-3. <b>Create tidy data set<b>
+<b>3. Create tidy data set</b>
   This step involves grouping the composite data set by activity and by subject and 
   computing the average for each variable for all observations in each subject-activity
   group. This dataset is then saved as AverageByActivityBySubject.txt.
