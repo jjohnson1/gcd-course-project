@@ -41,9 +41,9 @@ each of the variables listed below. For simplicity, .XYZ is used to indicate tha
 
 - tBodyAccMean.XYZ: time domain body accelarion mean along the X, Y, or Z axis.
 
--tGravityAccMean.XYZ: time domain gravity acceleration mean along the X, Y, or Z axis.
+- tGravityAccMean.XYZ: time domain gravity acceleration mean along the X, Y, or Z axis.
 
--tBodyAccJerkMean.XYZ: time domain body acceleration Jerk signal mean along the X, Y, or Z axis. 
+- tBodyAccJerkMean.XYZ: time domain body acceleration Jerk signal mean along the X, Y, or Z axis. 
 
 - tBodyGyroMean.XYZ: time domain body gyroscope signal mean along the X, Y, or Z axis.
 
